@@ -543,3 +543,9 @@ img {
     grid-template-columns: 1fr;
   }
 }
+.portfolio-note {
+  margin-top: 20px;
+  color: #666;
+  font-size: 14px;
+  max-width: 520px;
+}
